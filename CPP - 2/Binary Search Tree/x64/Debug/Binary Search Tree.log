@@ -1,0 +1,7 @@
+﻿  gui.cpp
+  main.cpp
+e:\dev\projects\binary search tree\main.cpp(10): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  node.cpp
+  test.cpp
+  Создание кода...
+  Binary Search Tree.vcxproj -> E:\Dev\Projects\Binary Search Tree\x64\Debug\Binary Search Tree.exe
