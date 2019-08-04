@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\кирилл\google диск\учеба\3 семестр\cpp-3rd\курсовая - алгоритмы\курсовая - алгоритмы\main.cpp(166): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note:  см. объявление "getch"
+c:\users\кирилл\google диск\учеба\3 семестр\cpp-3rd\курсовая - алгоритмы\курсовая - алгоритмы\main.cpp(204): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+c:\users\кирилл\google диск\учеба\3 семестр\cpp-3rd\курсовая - алгоритмы\курсовая - алгоритмы\main.cpp(244): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note:  см. объявление "getch"
+c:\users\кирилл\google диск\учеба\3 семестр\cpp-3rd\курсовая - алгоритмы\курсовая - алгоритмы\main.cpp(271): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Курсовая - Алгоритмы.vcxproj -> C:\Users\Кирилл\Google Диск\Учеба\3 семестр\CPP-3rd\Курсовая - Алгоритмы\Debug\Курсовая - Алгоритмы.exe
+  Курсовая - Алгоритмы.vcxproj -> C:\Users\Кирилл\Google Диск\Учеба\3 семестр\CPP-3rd\Курсовая - Алгоритмы\Debug\Курсовая - Алгоритмы.pdb (Full PDB)
