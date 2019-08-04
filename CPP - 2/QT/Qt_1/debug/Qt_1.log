@@ -1,0 +1,5 @@
+﻿  main.cpp
+E:\Dev\Projects\Qt_1\mainwindow.h(4): fatal error C1083: Не удается открыть файл включение: QMainWindow: No such file or directory,
+  mainwindow.cpp
+E:\Dev\Projects\Qt_1\mainwindow.h(4): fatal error C1083: Не удается открыть файл включение: QMainWindow: No such file or directory,
+  Создание кода...
