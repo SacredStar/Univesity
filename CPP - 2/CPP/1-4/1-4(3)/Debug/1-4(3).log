@@ -1,0 +1,23 @@
+﻿  1-4.cpp
+c:\users\кирилл\google диск\учеба\3 семестр\cpp-3rd\1-4(3)\1-4(3)\1-4.cpp(41): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+c:\users\кирилл\google диск\учеба\3 семестр\cpp-3rd\1-4(3)\1-4(3)\1-4.cpp(56): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\кирилл\google диск\учеба\3 семестр\cpp-3rd\1-4(3)\1-4(3)\1-4.cpp(84): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+c:\users\кирилл\google диск\учеба\3 семестр\cpp-3rd\1-4(3)\1-4(3)\1-4.cpp(66): warning C4101: str_inner: неиспользованная локальная переменная
+c:\users\кирилл\google диск\учеба\3 семестр\cpp-3rd\1-4(3)\1-4(3)\1-4.cpp(90): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+c:\users\кирилл\google диск\учеба\3 семестр\cpp-3rd\1-4(3)\1-4(3)\1-4.cpp(100): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note:  см. объявление "getch"
+c:\users\кирилл\google диск\учеба\3 семестр\cpp-3rd\1-4(3)\1-4(3)\1-4.cpp(124): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note:  см. объявление "getch"
+c:\users\кирилл\google диск\учеба\3 семестр\cpp-3rd\1-4(3)\1-4(3)\1-4.cpp(138): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note:  см. объявление "getch"
+c:\users\кирилл\google диск\учеба\3 семестр\cpp-3rd\1-4(3)\1-4(3)\1-4.cpp(153): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note:  см. объявление "getch"
+c:\users\кирилл\google диск\учеба\3 семестр\cpp-3rd\1-4(3)\1-4(3)\1-4.cpp(172): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note:  см. объявление "getch"
+c:\users\кирилл\google диск\учеба\3 семестр\cpp-3rd\1-4(3)\1-4(3)\1-4.cpp(174): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note:  см. объявление "getch"
+  1-4(3).vcxproj -> C:\Users\Кирилл\Google Диск\Учеба\3 семестр\CPP-3rd\1-4(3)\Debug\1-4(3).exe
+  1-4(3).vcxproj -> C:\Users\Кирилл\Google Диск\Учеба\3 семестр\CPP-3rd\1-4(3)\Debug\1-4(3).pdb (Full PDB)

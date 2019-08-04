@@ -1,0 +1,13 @@
+﻿  1-7.cpp
+c:\users\кирилл\google диск\учеба\3 семестр\cpp-3rd\1-7\1-7\1-7.cpp(69): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+c:\users\кирилл\google диск\учеба\3 семестр\cpp-3rd\1-7\1-7\1-7.cpp(71): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+c:\users\кирилл\google диск\учеба\3 семестр\cpp-3rd\1-7\1-7\1-7.cpp(135): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+c:\users\кирилл\google диск\учеба\3 семестр\cpp-3rd\1-7\1-7\1-7.cpp(136): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+c:\users\кирилл\google диск\учеба\3 семестр\cpp-3rd\1-7\1-7\1-7.cpp(154): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note:  см. объявление "getch"
+  1-7.vcxproj -> C:\Users\Кирилл\Google Диск\Учеба\3 семестр\CPP-3rd\1-7\Debug\1-7.exe
+  1-7.vcxproj -> C:\Users\Кирилл\Google Диск\Учеба\3 семестр\CPP-3rd\1-7\Debug\1-7.pdb (Full PDB)

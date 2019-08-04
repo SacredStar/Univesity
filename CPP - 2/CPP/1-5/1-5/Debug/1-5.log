@@ -1,0 +1,13 @@
+﻿  1-5.cpp
+c:\users\кирилл\google диск\учеба\3 семестр\cpp-3rd\1-5\1-5\1-5.cpp(33): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note:  см. объявление "getch"
+c:\users\кирилл\google диск\учеба\3 семестр\cpp-3rd\1-5\1-5\1-5.cpp(47): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note:  см. объявление "getch"
+c:\users\кирилл\google диск\учеба\3 семестр\cpp-3rd\1-5\1-5\1-5.cpp(76): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note:  см. объявление "getch"
+c:\users\кирилл\google диск\учеба\3 семестр\cpp-3rd\1-5\1-5\1-5.cpp(92): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note:  см. объявление "getch"
+c:\users\кирилл\google диск\учеба\3 семестр\cpp-3rd\1-5\1-5\1-5.cpp(110): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note:  см. объявление "getch"
+  1-5.vcxproj -> C:\Users\Кирилл\Google Диск\Учеба\3 семестр\CPP-3rd\1-5\Debug\1-5.exe
+  1-5.vcxproj -> C:\Users\Кирилл\Google Диск\Учеба\3 семестр\CPP-3rd\1-5\Debug\1-5.pdb (Full PDB)
