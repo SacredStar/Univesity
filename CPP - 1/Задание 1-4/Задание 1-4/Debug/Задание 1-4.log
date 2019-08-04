@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\кирилл\documents\visual studio 2015\projects\задание 1-4\задание 1-4\main.cpp(1): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\кирилл\documents\visual studio 2015\projects\задание 1-4\задание 1-4\main.cpp(2): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\кирилл\documents\visual studio 2015\projects\задание 1-4\задание 1-4\main.cpp(3): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\кирилл\documents\visual studio 2015\projects\задание 1-4\задание 1-4\main.cpp(4): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\кирилл\documents\visual studio 2015\projects\задание 1-4\задание 1-4\main.cpp(5): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\кирилл\documents\visual studio 2015\projects\задание 1-4\задание 1-4\main.cpp(30): error C2664: "char *gets_s(char *,std::rsize_t)": невозможно преобразовать аргумент 1 из "int [20]" в "char *"
+  c:\users\кирилл\documents\visual studio 2015\projects\задание 1-4\задание 1-4\main.cpp(30): note: Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+c:\users\кирилл\documents\visual studio 2015\projects\задание 1-4\задание 1-4\main.cpp(31): error C2446: ==: нет преобразования "int" в "int *"
+  c:\users\кирилл\documents\visual studio 2015\projects\задание 1-4\задание 1-4\main.cpp(31): note: Для преобразования из целого типа в указатель требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
